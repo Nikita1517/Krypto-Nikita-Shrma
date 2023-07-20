@@ -1,4 +1,4 @@
-# Krypto-Nikita-Shrma
+# Krypto-Nikita-Sharma
 System requirements:
 1.      Python 3
 2.      FastAPI module – use pip install fastapi
